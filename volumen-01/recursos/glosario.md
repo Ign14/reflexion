@@ -1,0 +1,26 @@
+# Glosario esencial
+
+- **API:** interfaz definida para que sistemas intercambien solicitudes y respuestas.
+- **AP (punto de acceso):** dispositivo que proporciona conectividad Wi-Fi.
+- **Autenticación:** proceso de comprobar una identidad.
+- **Autorización:** decisión sobre qué puede hacer una identidad autenticada.
+- **CIDR:** notación de prefijos IP como `/24`.
+- **DHCP:** protocolo de configuración automática de parámetros de red.
+- **DNS:** sistema de resolución de nombres de dominio y otros registros.
+- **Ethernet:** familia de estándares de enlace común en redes cableadas.
+- **Firewall:** componente que aplica políticas de tráfico según reglas y contexto.
+- **Gateway:** siguiente salto hacia destinos fuera de rutas locales más específicas.
+- **HTTP:** protocolo de aplicación usado para transferir representaciones y operar servicios web.
+- **IP:** familia de protocolos de direccionamiento y entrega de paquetes entre redes.
+- **LAN:** red de área local.
+- **NAT:** traducción de direcciones/puertos en tránsito.
+- **NIC:** interfaz de conexión a la red.
+- **Router:** dispositivo o software que encamina tráfico entre redes.
+- **SSID:** identificador de una red Wi-Fi.
+- **TCP:** protocolo de transporte orientado a conexión con entrega fiable de un flujo de bytes.
+- **TLS:** protocolo criptográfico para autenticar y proteger comunicaciones.
+- **UDP:** protocolo de transporte basado en datagramas, sin entrega fiable intrínseca.
+- **VLAN:** segmentación lógica de dominios de enlace en infraestructura compatible.
+- **WAN:** red de área extensa.
+- **WPA2/WPA3:** familias de mecanismos de seguridad para redes Wi-Fi.
+- **Zero Trust:** enfoque de seguridad que evita conceder confianza implícita por ubicación de red.
