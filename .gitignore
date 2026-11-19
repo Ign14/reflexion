@@ -1,0 +1,10 @@
+# Generated documents, local build artifacts, and credentials
+dist/
+build/
+.cache/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.DS_Store
