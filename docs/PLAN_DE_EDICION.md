@@ -1,7 +1,7 @@
 # Plan editorial — Volumen 1
 
 ## Estado al 19 de noviembre de 2026
-**Edición de trabajo 0.4.** Los capítulos 1 a 7 cuentan con una primera ampliación técnica; el capítulo 8 continúa como borrador. No corresponde todavía a un manual integral validado ni a un PDF definitivo.
+**Edición de trabajo 0.5.** Los ocho capítulos cuentan con una primera ampliación técnica. Se incorporaron evaluación integral, laboratorio 04 y especificación de maquetación. No corresponde todavía a una edición validada ni a un PDF integral definitivo. No corresponde todavía a un manual integral validado ni a un PDF definitivo.
 
 ## Avance verificable
 - [x] Índice, estructura editorial y repositorio
@@ -14,10 +14,11 @@
 - [x] Capítulo 5 ampliado: DNS, TLS, HTTP y flujo completo
 - [x] Capítulo 6 ampliado: Wi-Fi, autenticación y aislamiento
 - [x] Capítulo 7 ampliado: monitoreo, registros y respuesta
-- [ ] Capítulo 8 ampliado: arquitectura SaaS multiempresa
+- [x] Capítulo 8 ampliado: arquitectura SaaS multiempresa
 - [x] Laboratorio 02 de observación DNS, TLS y HTTP
 - [x] Laboratorio 03 de segmentación y respuesta con rúbrica
-- [ ] Laboratorios adicionales, diagramas vectoriales y evaluación integral
+- [x] Evaluación integral y laboratorio 04 de aislamiento SaaS
+- [ ] Diagramas vectoriales y laboratorios adicionales
 - [ ] Revisión de exactitud y verificación de referencias
 - [ ] Compilación y revisión visual del PDF completo
 
@@ -28,4 +29,4 @@ Objetivos medibles; explicación conceptual y técnica; diagrama o tabla cuando 
 No incluir capturas con secretos o datos personales, no instruir pruebas sobre sistemas de terceros sin autorización y no presentar recomendaciones de seguridad como garantías absolutas. La publicación 1.0 requiere revisión técnica y editorial.
 
 ## Próximo bloque
-Ampliar capítulo 8 sobre SaaS multiempresa, preparar evaluación transversal y avanzar en diagramas y maquetación del PDF integral.
+Normalizar referencias y coherencia transversal, incorporar diagramas vectoriales, producir una primera maqueta PDF integral y revisar visualmente cada página.
